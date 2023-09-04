@@ -1,0 +1,15 @@
+C:\OOP CODES\OOP_ODD_LAB2\bin\Debug\net6.0\OOP_ODD_LAB2.exe
+C:\OOP CODES\OOP_ODD_LAB2\bin\Debug\net6.0\OOP_ODD_LAB2.deps.json
+C:\OOP CODES\OOP_ODD_LAB2\bin\Debug\net6.0\OOP_ODD_LAB2.runtimeconfig.json
+C:\OOP CODES\OOP_ODD_LAB2\bin\Debug\net6.0\OOP_ODD_LAB2.dll
+C:\OOP CODES\OOP_ODD_LAB2\bin\Debug\net6.0\OOP_ODD_LAB2.pdb
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.csproj.AssemblyReference.cache
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.AssemblyInfoInputs.cache
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.AssemblyInfo.cs
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.csproj.CoreCompileInputs.cache
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.dll
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\refint\OOP_ODD_LAB2.dll
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.pdb
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\OOP_ODD_LAB2.genruntimeconfig.cache
+C:\OOP CODES\OOP_ODD_LAB2\obj\Debug\net6.0\ref\OOP_ODD_LAB2.dll
