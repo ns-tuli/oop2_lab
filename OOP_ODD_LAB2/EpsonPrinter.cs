@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace OOP_ODD_LAB2
 {
-    public class EpsonPrinter: IPrinter
+    public class EpsonPrinter: Printer,IPrinter
     {
-        public string content;
-        public bool isColor; 
-        public bool isDoubleSided;
-        public PageType pageType;
-        public EpsonPrinter(string content, bool isColor, bool isDoubleSided, PageType pageType)
+       
+        public EpsonPrinter(string content, bool isColor, bool isDoubleSided, PageType pageType) : base(content, isColor, isDoubleSided, pageType)
         {   this.content=content; 
             this.isColor=isColor; 
             this.isDoubleSided = isDoubleSided;

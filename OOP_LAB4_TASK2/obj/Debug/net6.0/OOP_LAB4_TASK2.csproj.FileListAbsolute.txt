@@ -13,3 +13,18 @@ C:\OOP CODES\OOP_LAB4_TASK2\obj\Debug\net6.0\refint\OOP_LAB4_TASK2.dll
 C:\OOP CODES\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.pdb
 C:\OOP CODES\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.genruntimeconfig.cache
 C:\OOP CODES\OOP_LAB4_TASK2\obj\Debug\net6.0\ref\OOP_LAB4_TASK2.dll
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\bin\Debug\net6.0\OOP_LAB4_TASK2.exe
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\bin\Debug\net6.0\OOP_LAB4_TASK2.deps.json
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\bin\Debug\net6.0\OOP_LAB4_TASK2.runtimeconfig.json
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\bin\Debug\net6.0\OOP_LAB4_TASK2.dll
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\bin\Debug\net6.0\OOP_LAB4_TASK2.pdb
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.csproj.AssemblyReference.cache
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.AssemblyInfoInputs.cache
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.AssemblyInfo.cs
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.dll
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\refint\OOP_LAB4_TASK2.dll
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.pdb
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\OOP_LAB4_TASK2.genruntimeconfig.cache
+C:\Users\ASUS\oop2_lab\OOP_LAB4_TASK2\obj\Debug\net6.0\ref\OOP_LAB4_TASK2.dll

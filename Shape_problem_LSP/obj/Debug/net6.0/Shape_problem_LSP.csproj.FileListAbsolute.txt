@@ -1,0 +1,15 @@
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.csproj.AssemblyReference.cache
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.AssemblyInfoInputs.cache
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.AssemblyInfo.cs
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.csproj.CoreCompileInputs.cache
+C:\OOP CODES\Shape_problem_LSP\bin\Debug\net6.0\Shape_problem_LSP.exe
+C:\OOP CODES\Shape_problem_LSP\bin\Debug\net6.0\Shape_problem_LSP.deps.json
+C:\OOP CODES\Shape_problem_LSP\bin\Debug\net6.0\Shape_problem_LSP.runtimeconfig.json
+C:\OOP CODES\Shape_problem_LSP\bin\Debug\net6.0\Shape_problem_LSP.dll
+C:\OOP CODES\Shape_problem_LSP\bin\Debug\net6.0\Shape_problem_LSP.pdb
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.dll
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\refint\Shape_problem_LSP.dll
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.pdb
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\Shape_problem_LSP.genruntimeconfig.cache
+C:\OOP CODES\Shape_problem_LSP\obj\Debug\net6.0\ref\Shape_problem_LSP.dll

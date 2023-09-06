@@ -13,21 +13,14 @@ namespace OOP_LAB4_TASK2
         Thriller,
         Other
     }
-    public class Movie
+    public abstract class Movie
     {
         
         public Genre Genre { get; set; }
         public DateTime release_date { get; set; }
         public int duration { get; set; }
 
-        public Movie( Genre genre, DateTime release_date, int duration)
-        {
-           
-            this.Genre = genre;
-            this.release_date = release_date;
-            this.duration = duration;
-        }
-
+        
         
         
 

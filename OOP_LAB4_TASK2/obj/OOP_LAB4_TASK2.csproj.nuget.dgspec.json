@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OOP CODES\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj": {}
+    "C:\\Users\\ASUS\\oop2_lab\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj": {}
   },
   "projects": {
-    "C:\\OOP CODES\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj": {
+    "C:\\Users\\ASUS\\oop2_lab\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OOP CODES\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\oop2_lab\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj",
         "projectName": "OOP_LAB4_TASK2",
-        "projectPath": "C:\\OOP CODES\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj",
+        "projectPath": "C:\\Users\\ASUS\\oop2_lab\\OOP_LAB4_TASK2\\OOP_LAB4_TASK2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\OOP CODES\\OOP_LAB4_TASK2\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\oop2_lab\\OOP_LAB4_TASK2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
