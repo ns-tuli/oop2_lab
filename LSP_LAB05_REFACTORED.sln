@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_LAB05_REFACTORED", "LSP_LAB05_REFACTORED.csproj", "{E8149A73-6F4D-4CD8-8512-B4B91ECD8C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTING_LSP", "..\TESTING_LSP\TESTING_LSP.csproj", "{D52852A0-EFC1-4D9E-B0ED-73E80C5B1A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8149A73-6F4D-4CD8-8512-B4B91ECD8C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8149A73-6F4D-4CD8-8512-B4B91ECD8C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8149A73-6F4D-4CD8-8512-B4B91ECD8C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8149A73-6F4D-4CD8-8512-B4B91ECD8C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52852A0-EFC1-4D9E-B0ED-73E80C5B1A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52852A0-EFC1-4D9E-B0ED-73E80C5B1A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52852A0-EFC1-4D9E-B0ED-73E80C5B1A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52852A0-EFC1-4D9E-B0ED-73E80C5B1A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AEDA98-EE83-43B0-ACA5-C19782C2EA94}
+	EndGlobalSection
+EndGlobal
